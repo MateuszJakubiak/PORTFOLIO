@@ -37,3 +37,7 @@ W swojej karierze brałem udział w dwóch projektach, w których miałem możli
 ### LINKEDIN 
 
 https://www.linkedin.com/in/mateusz-jakubiak-a616b3261/ 
+
+
+
+Przykładowe zapytania w SQL oraz rozszerzona część projektowa w drugim pliku README :)
