@@ -32,7 +32,10 @@ W swojej karierze brałem udział w dwóch projektach, w których miałem możli
 * Umiejętność analitycznego myślenia
 * Samodzielność 
 * Umiejętność pracy w zespole
-* Organizacja pracy 
+* Organizacja pracy
+* Zarządzanie zespołem
+* Terminowość 
+
 
 ### LINKEDIN 
 
