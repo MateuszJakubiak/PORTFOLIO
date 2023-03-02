@@ -25,3 +25,15 @@ W swojej karierze brałem udział w dwóch projektach, w których miałem możli
 * Chrome DevTools - do testowania i ulepszania raportów o błędach
 * GitHub
 * MySQL - system zarządzania relacyjną bazą danych
+* XAMPP
+
+## Umiejętności miękkie 
+* Komunikatywność
+* Umiejętność analitycznego myślenia
+* Samodzielność 
+* Umiejętność pracy w zespole
+* Organizacja pracy 
+
+### LINKEDIN 
+
+https://www.linkedin.com/in/mateusz-jakubiak-a616b3261/ 
