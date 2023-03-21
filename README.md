@@ -10,7 +10,7 @@ W swojej karierze brałem udział w projektach, w których miałem możliwość 
 * Dare IT challange - 7 tygodniowe szkolenie na testera oprogramowania 
 * uTest Academy - szkolenie wstępne
 * kursySQL.pl - szkolenie z pisania zapytań
-* DevTools - podstawy, jak ich poprawnie używać. Kurs na Szkoleniiu Dare IT
+* DevTools - podstawy, jak ich poprawnie używać. Kurs na Szkoleniu Dare IT
 
 ##  Moje projekty
 
