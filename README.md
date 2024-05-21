@@ -7,6 +7,7 @@ W swojej karierze brałem udział w projektach, w których miałem możliwość 
 
 ## Kursy 
 
+* Quality Island - 3 miesięczy staż 
 * Dare IT challange - 7 tygodniowe szkolenie na testera oprogramowania 
 * uTest Academy - szkolenie wstępne
 * kursySQL.pl - szkolenie z pisania zapytań
@@ -20,11 +21,14 @@ W swojej karierze brałem udział w projektach, w których miałem możliwość 
 * Pisanie przypadków testowych na podstawie User Story - https://docs.google.com/document/d/1yzGDfZdtW6frFvMRydBZBA17wJheOsxXjl9AIGvuL_s/edit
 
 ## Tools - Narzędzia
-* Slack - do komunikacji w zespole 
+
 * Trello - zarządzanie projektami
 * Chrome DevTools - do testowania i ulepszania raportów o błędach
 * GitHub
 * MySQL - system zarządzania relacyjną bazą danych
+* Postman - weryfikacja komunikacji 
+* JIRA - zarządzanie projektami
+* Slack - do komunikacji w zespole
 * XAMPP
 
 ## Umiejętności miękkie 
