@@ -19,6 +19,7 @@ Kurs obejmował:
 
 
 Testowanie aplikacji mobilnej dla firmy eventowej
+---------------------------------------------------
 Czas trwania: [01.24] - [do teraz]
 
 Po ukończeniu kursu testowałem aplikację mobilną „Mini Recepcja” dla firmy eventowej.
@@ -30,6 +31,7 @@ Po ukończeniu kursu testowałem aplikację mobilną „Mini Recepcja” dla fir
 
 
 Staż – Testowanie platformy „Publigo”
+-------------------------------------
 Czas trwania: [04.24] - [07.24]
 
 Odbyłem trzy miesięczny staż, podczas którego pracowałem nad testowaniem webowej platformy „Publigo”. W ramach stażu:
@@ -42,6 +44,7 @@ Odbyłem trzy miesięczny staż, podczas którego pracowałem nad testowaniem we
 
 
 Kurs testera automatyzującego w Selenium
+-----------------------------------------
 Czas trwania: [13.07.24] - [28.07.24]
 
 Ukończyłem dwutygodniowy kurs automatyzacji testów w Selenium z użyciem IntelliJ IDEA i Javy. Kurs obejmował:
@@ -70,6 +73,8 @@ Ukończyłem dwutygodniowy kurs automatyzacji testów w Selenium z użyciem Inte
 
 ## Tools - Narzędzia
 
+* IntellijIDEA - testy automatyczne
+* GitLab
 * Trello - zarządzanie projektami
 * Chrome DevTools - do testowania i ulepszania raportów o błędach
 * GitHub
