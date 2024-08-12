@@ -66,9 +66,6 @@ Ukończyłem dwutygodniowy kurs automatyzacji testów w Selenium z użyciem Inte
 
 ##  Moje projekty
 
-* git add plik.xlsx
-git commit -m ""
-git push origin main
 * Testowanie według planów testów i raportowanie błędów -https://docs.google.com/document/d/1WXPJ_K6One8W6AZsHtfFUT19OGHSGD3kIGkiNTGPbSg/edit
 * Raport z wykonanych testów - https://docs.google.com/document/d/1frOosdqyyJHa8Rz2lAfxmpdj-UVFZw1puI6zaZc3yWk/edit
 * Test Case aplikacji monbilnej - https://docs.google.com/document/d/1QJyDua6G9p47Z5k0-hA4h3nGb3O4Q877U9e4vr7NHfc/edit
