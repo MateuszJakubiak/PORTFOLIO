@@ -3,10 +3,57 @@
 Z zapałem zanurzyłem się w świat testowania oprogramowania, ukończywszy kurs, który otworzył mi oczy na istotność jakości w produktach technologicznych. Moje analityczne myślenie, doskonalone podczas rozwiązywania problemów związanych z oprogramowaniem, idzie w parze z dyscypliną, którą czerpię z regularnych treningów na siłowni. W poszukiwaniu okazji do dalszego rozwoju, pragnę wykorzystać swoje umiejętności w dynamicznym i innowacyjnym środowisku, aby współtworzyć produkty spełniające najwyższe standardy jakości. W tym portfolio chciałbym podzielić się swoją wiedzą z zakresu testowania oraz zaprezentować swoje umiejętności techniczne, które zdobyłem podczas ukończonego kursu testowania oraz poprzez samodzielną naukę. Jestem zdeterminowany, aby udowodnić umiejętności, które już nabyłem i nadal rozwijać się w tej dziedzinie.
 ## Dotychczasowe doświadczenie. 
 Moje dotychczasowe doświadczenie obejmuje różne dziedziny, od magazynowania produktów wojskowych w centrum logistycznym, poprzez wsparcie obsługi klienta, aż po prowadzenie własnej działalości gospodarczej związanej z gastronomią.
-W swojej karierze brałem udział w projektach, w których miałem możliwość testowania oprogramowania jako użytkownik. Jednym z nich było testowanie aplikacji OLX, gdzie wykorzystywałem umiejętność testowania eksploracyjnego podczas szloenia z Dare IT, kolejnym było testowanie systemu zarządzania księgowością opartego o synchronizację z systemem symfonia. W obu przypadkach nie miałem przygotowanych przypadków testowych ani scenariuszy, śledziłem procesy i korzystałem ze swojego doświadczenia. Wykryte błędy były zgłaszane za pomocą stworzonej przeze mnie formatki do zgłaszania błędów. Obecnie również szukam doświadczenia na stronie uTest.
+W swojej karierze brałem udział w projektach, w których miałem możliwość testowania oprogramowania.
+
+DareIT - Kurs Testowania Manualnego
+Czas trwania: [01.23] - [03.23]
+
+Uczestniczyłem w ponad dwumiesięcznym kursie testowania manualnego organizowanym przez DareIT. 
+Kurs obejmował:
+
+* Tworzenie i wykonywanie scenariuszy testowych
+* Podstawy raportowania błędów
+* Pracę z narzędziami do zarządzania testami, takimi jak Jira i TestRail
+* Wprowadzenie do cyklu życia oprogramowania i zapewnienia jakości
+
+
+Testowanie aplikacji mobilnej dla firmy eventowej
+Czas trwania: [01.24] - [do teraz]
+
+Po ukończeniu kursu testowałem aplikację mobilną „Mini Recepcja” dla firmy eventowej.
+
+* Testowanie funkcjonalności aplikacji na różnych urządzeniach mobilnych
+* Przeprowadzanie testów regresyjnych
+* Raportowanie błędów i współpracę z zespołem deweloperskim
+* Udział w spotkaniach zespołu i planowaniu dalszego rozwoju aplikacji
+
+
+Staż – Testowanie platformy „Publigo”
+Czas trwania: [04.24] - [07.24]
+
+Odbyłem trzy miesięczny staż, podczas którego pracowałem nad testowaniem webowej platformy „Publigo”. W ramach stażu:
+
+* Pracowałem z bazami danych Postgres i SQL
+* Używałem DevTools do analizy i debugowania aplikacji
+* Testowałem aplikację webową oraz jej integracje
+* Zgłaszałem błędy w Jira oraz korzystałem z rozszerzenia Zephyr Scale do zarządzania przypadkami testowymi
+* Zdobyłem doświadczenie w pracy z istniejącą aplikacją rynkową, identyfikując i raportując błędy
+
+
+Kurs testera automatyzującego w Selenium
+Czas trwania: [13.07.24] - [28.07.24]
+
+Ukończyłem dwutygodniowy kurs automatyzacji testów w Selenium z użyciem IntelliJ IDEA i Javy. Kurs obejmował:
+
+* Pisanie skryptów testowych w języku Java
+* Automatyzację testów przy użyciu Selenium WebDriver
+* Pracę z narzędziem IntelliJ IDEA
+* Tworzenie i uruchamianie testów automatycznych oraz analiza wyników
+
 
 ## Kursy 
 
+* Automatyzacja testów aplikacji webowych (SELENIUM) 
 * Quality Island - 3 miesięczy staż 
 * Dare IT challange - 7 tygodniowe szkolenie na testera oprogramowania 
 * uTest Academy - szkolenie wstępne
