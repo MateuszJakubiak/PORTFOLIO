@@ -6,6 +6,7 @@ Moje dotychczasowe doświadczenie obejmuje różne dziedziny, od magazynowania p
 W swojej karierze brałem udział w projektach, w których miałem możliwość testowania oprogramowania.
 
 DareIT - Kurs Testowania Manualnego
+------------------------------------
 Czas trwania: [01.23] - [03.23]
 
 Uczestniczyłem w ponad dwumiesięcznym kursie testowania manualnego organizowanym przez DareIT. 
