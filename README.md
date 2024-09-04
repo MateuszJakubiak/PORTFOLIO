@@ -30,14 +30,17 @@ Po ukończeniu kursu testowałem aplikację mobilną „Mini Recepcja” dla fir
 * Udział w spotkaniach zespołu i planowaniu dalszego rozwoju aplikacji
 
 
-Staż – Testowanie platformy „Publigo”
+Staż – Wykonywanie testów akceptacyjnych i systemowych aplikacji webowej
 -------------------------------------
 Czas trwania: [04.24] - [07.24]
 
-Odbyłem trzy miesięczny staż, podczas którego pracowałem nad testowaniem webowej platformy „Publigo”. W ramach stażu:
+Odbyłem trzy miesięczny staż, podczas którego pracowałem nad testowaniem webowej platformy. W ramach stażu:
 
+* Wykonywałem testy E2E
+* Tworzyłem scenariusze testowe 
 * Pracowałem z bazami danych Postgres i SQL
 * Używałem DevTools do analizy i debugowania aplikacji
+* Pracowałem z dokumentacją testową
 * Testowałem aplikację webową oraz jej integracje
 * Zgłaszałem błędy w Jira oraz korzystałem z rozszerzenia Zephyr Scale do zarządzania przypadkami testowymi
 * Zdobyłem doświadczenie w pracy z istniejącą aplikacją rynkową, identyfikując i raportując błędy
